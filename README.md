@@ -1,2 +1,3 @@
 # Forage-virtual-experience-
 Virtual experience projects on forage.com
+1. Text analysis - Text analysis for insights using the customer reviews on https://www.airlinequality.com/airline-reviews/british-airways. This project was performed as a part of the virtual experience programme for British airways. It involves web scrapping, data manipulation and generating insights using word clouds to analyse the top words used in reviews. The purpose behind such an analysis would assist in focussing on areas that is satisfactory according to the customers or areas that need improvement. Using modules such as scikit-learn, matplotlib and BeautifulSoup. 
