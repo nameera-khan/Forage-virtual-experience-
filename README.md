@@ -19,3 +19,12 @@ The analysis consists of fields with customer transaction details and customer b
 * The three trial stores chosen by the client were : 77,86 and 88.
 * The assessments for these stores were done against the control stores to generate the sales during a trial period of 2019-02 and 2019-04.
 Libraries used: Pandas, Matplotlib, Seaborn
+
+### Cognizant 
+* AI for Cognizant’s Data Science team. 
+* Conducted exploratory data analysis using Python for one of Cognizant’s technology-led clients, Gala Groceries.
+* Task 1- Exploratory Data analysis of the dataset presented by Gala Groceries using Plotly's interactive library for temporal trends in sales.
+* Task 2- Built a model using the additional IoT sensor temperature data and predict estimated stock levels for procurement. Random Forest Regressor with Mean Absolute Error as evaluation metric.
+* Task 3 - Prepare a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
+* Feature importance visualisation where temperature was one of the influencial variables. 
+Libraries used: Pandas,Numpy, Maplotlib, Plotly, Scikit-Learn
